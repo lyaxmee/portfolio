@@ -128,7 +128,8 @@ nav.sticky .menu-btn{
     align-items: center;
 }
 .image img{ 
-    width: 70%;
+    width:70%;
+    border-radius:50%;
 }
 
 @media screen and (max-width:800px) {
